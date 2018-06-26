@@ -46,4 +46,6 @@ index = np.argmax([acc_svm, acc_per, acc_KNN])
 classifiers = {0: 'SVM', 1: 'Perceptron', 2: 'KNN'}
 print('Best gender classifier is {}'.format(classifiers[index]))
 
-print('Tests')
+
+print('Hello Ngolo')
+
