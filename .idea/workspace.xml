@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="6e8eea0b-9d81-4d13-aaf3-5dcc550e4e0b" name="Default" comment="Kurzawa">
       <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
 =======
@@ -9,6 +10,9 @@
 >>>>>>> Test
       <change beforePath="$PROJECT_DIR$/Genderfinder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Genderfinder.py" afterDir="false" />
     </list>
+=======
+    <list default="true" id="6e8eea0b-9d81-4d13-aaf3-5dcc550e4e0b" name="Default" comment="" />
+>>>>>>> Test
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -167,6 +171,9 @@
       <updated>1530051027139</updated>
     </task>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Test
     <task id="LOCAL-00003" summary="First commit to test">
       <created>1530866160850</created>
       <option name="number" value="00003" />
@@ -175,14 +182,16 @@
       <updated>1530866160850</updated>
     </task>
     <option name="localTasksCounter" value="4" />
+<<<<<<< HEAD
 =======
     <option name="localTasksCounter" value="3" />
+>>>>>>> Test
+=======
 >>>>>>> Test
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
