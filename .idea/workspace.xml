@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="6e8eea0b-9d81-4d13-aaf3-5dcc550e4e0b" name="Default" comment="Kurzawa">
       <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+=======
+    <list default="true" id="6e8eea0b-9d81-4d13-aaf3-5dcc550e4e0b" name="Default" comment="First commit to test">
+>>>>>>> Test
       <change beforePath="$PROJECT_DIR$/Genderfinder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Genderfinder.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +35,13 @@
       <file leaf-file-name="Genderfinder.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Genderfinder.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="360">
               <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+=======
+            <state relative-caret-position="345">
+              <caret line="48" column="30" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
+>>>>>>> Test
               <folding>
                 <element signature="e#0#24#0" expanded="true" />
               </folding>
@@ -61,6 +70,13 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+>>>>>>> Test
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -83,6 +99,15 @@
       </pane>
     </panes>
   </component>
+<<<<<<< HEAD
+=======
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+>>>>>>> Test
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -141,6 +166,7 @@
       <option name="project" value="LOCAL" />
       <updated>1530051027139</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00003" summary="First commit to test">
       <created>1530866160850</created>
       <option name="number" value="00003" />
@@ -149,6 +175,9 @@
       <updated>1530866160850</updated>
     </task>
     <option name="localTasksCounter" value="4" />
+=======
+    <option name="localTasksCounter" value="3" />
+>>>>>>> Test
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -213,8 +242,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit to test" />
+<<<<<<< HEAD
     <MESSAGE value="Kurzawa" />
     <option name="LAST_COMMIT_MESSAGE" value="Kurzawa" />
+=======
+    <option name="LAST_COMMIT_MESSAGE" value="First commit to test" />
+>>>>>>> Test
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Genderfinder.py">
@@ -229,8 +262,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Genderfinder.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="360">
           <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
+=======
+        <state relative-caret-position="345">
+          <caret line="48" column="30" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
+>>>>>>> Test
           <folding>
             <element signature="e#0#24#0" expanded="true" />
           </folding>
