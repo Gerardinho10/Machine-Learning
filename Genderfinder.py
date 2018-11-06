@@ -1,4 +1,4 @@
-from sklearn import tree
+ from sklearn import tree
 from sklearn.svm import SVC
 from sklearn.linear_model import Perceptron
 from sklearn.neighbors import KNeighborsClassifier
@@ -24,7 +24,7 @@ clf_svm.fit(X, Y)
 clf_perceptron.fit(X, Y)
 clf_KNN.fit(X, Y)
 
-# Testing using the same data
+# We test with the same data 
 pred_tree = clf_tree.predict(X)
 acc_tree = accuracy_score(Y, pred_tree) * 100
 print('Accuracy for DecisionTree: {}'.format(acc_tree))
