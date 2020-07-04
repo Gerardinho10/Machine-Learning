@@ -1,4 +1,4 @@
-# Machine Learning projects done during my studies
+# Machine Learning projects from college
 
 1. Adversarial Attacks
 
