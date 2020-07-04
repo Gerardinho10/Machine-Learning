@@ -1,4 +1,4 @@
-# Just some Data Science easy tests in Python 
+# Machine Learning projects done during my studies
 
-More Data Science with pySpark and Mllib yet to come !!
+1. Adversarial Attacks
 
