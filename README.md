@@ -4,4 +4,6 @@
 
 2. Lyrics analysis with AWS Sagemaker
 
-3.
+3. NLP Email Fraud Detection
+
+4. 
